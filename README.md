@@ -2,7 +2,7 @@
 
 A professional desktop application to convert Android APK files to Android App Bundle (AAB) format and vice versa. This tool provides a user-friendly interface and supports both Windows and macOS platforms.
 
-![APK2AAB Converter](screenshots/app.png)
+![APK2AAB Converter](https://github.com/itsaqibdev/APK-2-AAB-Tool/blob/main/apk2aab.PNG?raw=true)
 
 ## Features
 
